@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810324570528",
+    "project_id": "job-portal-4a881",
+    "storage_bucket": "job-portal-4a881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810324570528:android:85cb36b1077caac6ee74c5",
+        "android_client_info": {
+          "package_name": "com.example.joistic_job_portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqqaE4Xip_qjl1nOGalI8zti0fTd51SHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
